@@ -67,4 +67,5 @@ def get_security_advice():
     print("1. Enable MFA/2FA: Always use Multi-Factor Authentication where possible.")
     print("2. Use a Manager: Don't reuse passwords; use a Password Manager (e.g., Bitwarden).")
     print("3. Hashing & Salting: If you were storing this in a database, never store it as plain text.")
-    print("4. Avoid Personal Info: Don't include your name, birthday, or 'VNRVJIET' in the string.")
+    print("4. Avoid Personal Info: Don't include your name, birthday in  the string.")
+get_security_advice()
