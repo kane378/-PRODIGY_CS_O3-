@@ -18,4 +18,3 @@ This tool analyzes the strength of a password by checking it against several sec
 ### Final Tip: Don't Push Real Passwords!
 When you test this, don't use your actual personal passwords. Even though this script stays on your computer, it's good practice in cybersecurity to use "dummy" passwords like `Test@1234` or `Coding_Is_Fun_2026`.
 
-**Ready to push this to a new GitHub repo, or do you want to add a feature that generates a strong password for the user if theirs is too weak?**
